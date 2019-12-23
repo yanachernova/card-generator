@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    font-family: 'Inria Serif', serif;
+}
+
+.card{
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+#symbolup{
+   margin: 10px; 
+   font-size: 40px;
+}
+
+#numbers{
+    margin-top: 40%;
+    margin-left: 45%;
+    font-size: 60px;
+}
+
+#symboldown{
+    font-size: 40px;
+    margin-left: 260px;
+    margin-top: 130px;
+}
